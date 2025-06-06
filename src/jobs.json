@@ -97,6 +97,20 @@
         "contactEmail": "nexuscloud@gmail.com",
         "contactPhone": "111-222-333-444"
       }
+    },
+    {
+      "id": "eaf2",
+      "title": "Machine Learning Engineer – NLP Specialist",
+      "type": "Remote",
+      "location": " Austin, TX 78758, USA",
+      "description": "QuantumLeap AI is revolutionizing conversational AI, and we need a Machine Learning Engineer with expertise in Natural Language Processing (NLP) to help build the next generation of LLM-powered applications. You’ll fine-tune models, optimize inference, and deploy scalable AI solutions.",
+      "salary": "Under $50K",
+      "company": {
+        "name": "QuantumLeap AI",
+        "description": "At QuantumLeap AI, we’re on a mission to bridge the gap between human communication and artificial intelligence. Founded in 2020 by a team of ex-Google Brain and OpenAI researchers, we specialize in building adaptive NLP systems for enterprises and developers. Our flagship product, ChatFusion, powers conversational AI for Fortune 500 companies, healthcare platforms, and next-gen robotics.",
+        "contactEmail": "quantumleap@gmail.com",
+        "contactPhone": "12345678"
+      }
     }
   ]
 }
