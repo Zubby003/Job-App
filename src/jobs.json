@@ -83,6 +83,20 @@
         "contactEmail": "contact@ipsumlorem.com",
         "contactPhone": "555-555-5555"
       }
+    },
+    {
+      "id": "e5ab",
+      "title": "Senior DevOps Enginee",
+      "type": "Part-Time",
+      "location": "San Francisco, CA",
+      "description": "We are looking for a skilled Senior DevOps Engineer to join our growing team. In this role, you will design, implement, and maintain cloud infrastructure, CI/CD pipelines, and automation tools to enhance deployment efficiency and system reliability.",
+      "salary": "$100K - 125K",
+      "company": {
+        "name": "NexusCloud Technologies",
+        "description": "NexusCloud Technologies is seeking a skilled Senior DevOps Engineer to join our dynamic team. In this role, you will design, implement, and maintain scalable cloud infrastructure, CI/CD pipelines, and automation tools to enhance deployment efficiency and system reliability.",
+        "contactEmail": "nexuscloud@gmail.com",
+        "contactPhone": "111-222-333-444"
+      }
     }
   ]
 }
